@@ -1,0 +1,25 @@
+[+] Create the Navbar
+     [-] Logo at left side
+     [-] Links are at right
+
+Home, About Us, Gallery, News, Events, Members
+
+     [-] Background white and Text hover green
+
+
+[+] Hero section
+     [-] Text At left
+     [-] Image at right
+
+[+] About section
+    [-] 
+
+[+] Gallery 
+    [-] Images from google
+
+[+] News section
+[+] Events section
+[+] Members section
+    [+] swiper
+
+[+] Footer section
